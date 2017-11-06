@@ -1,2 +1,2 @@
-DSA Fall 2017
+# DSA Fall 2017
 Rowan University
